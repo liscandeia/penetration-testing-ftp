@@ -88,7 +88,8 @@ No Kali Linux, execute os seguintes passos:
    ```bash
    nano flag.txt
    ```
-![image](https://github.com/user-attachments/assets/e311aa74-63ce-4d6e-a576-e00f04fc1724)
+![image](https://github.com/user-attachments/assets/bfc35960-ca98-403c-9396-8a678ba1ddfe)
+
 
 ## Resultados
 
