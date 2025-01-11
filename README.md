@@ -27,7 +27,11 @@ echo "teste de penet" > flag.txt
 
 Localização do arquivo: `/home/msfadmin/flag.txt`
 
-![image](https://github.com/user-attachments/assets/32125f40-a630-43a3-88dd-51a30129e13e)
+
+Verificação de arquivo e ip da máquina vulnerável:
+
+![image](https://github.com/user-attachments/assets/de124486-1ebc-4ffe-bd53-19b07ed4412e)
+
 
 ### 2. Configuração do Metasploit na Kali Linux
 
@@ -67,7 +71,8 @@ No Kali Linux, execute os seguintes passos:
    ```bash
    ip addr
    ```
-![image](https://github.com/user-attachments/assets/d85d9068-0325-4119-9d44-f996563bdc13)
+![image](https://github.com/user-attachments/assets/f6249f18-0122-4d4a-835e-4f1e40bbad2b)
+
 
 ### 3. Acessar o arquivo na máquina vulnerável
 
