@@ -90,5 +90,6 @@ No Kali Linux, execute os seguintes passos:
    ```
 ![image](https://github.com/user-attachments/assets/bfc35960-ca98-403c-9396-8a678ba1ddfe)
 
+***Este ataque é realizado em ambiente controlado para fins educacionais***
 
 
