@@ -15,7 +15,7 @@ Encontrar e acessar um arquivo de texto criado em uma máquina virtual vulneráv
 ## Procedimento
 
 ### 1. Criar um arquivo na VM vulnerável
-Na máquina Metasploitable, criei um arquivo `flag.txt` com o seguinte conteúdo:
+Na máquina Metasploitable, criei um arquivo `flag.txt` com algum conteúdo:
 ```bash
 "teste de penet"
 ```
@@ -91,11 +91,4 @@ No Kali Linux, execute os seguintes passos:
 ![image](https://github.com/user-attachments/assets/bfc35960-ca98-403c-9396-8a678ba1ddfe)
 
 
-## Resultados
-
-Conseguimos localizar e acessar o arquivo `flag.txt` com sucesso através do Metasploit.
-
----
-
-**Nota:** Este experimento foi realizado em um ambiente controlado para fins educacionais.
 
